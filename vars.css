@@ -1,0 +1,62 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --01: #10692d;
+  --02: #0f7b64;
+  --03: #27ad60;
+  --04: #292f36;
+
+  /* Fonts */
+  --h1-46-bold-font-family: Montserrat-Bold, sans-serif;
+  --h1-46-bold-font-size: 46px;
+  --h1-46-bold-line-height: 150%;
+  --h1-46-bold-font-weight: 700;
+  --h1-46-bold-font-style: normal;
+  --h2-32-bold-font-family: Montserrat-Bold, sans-serif;
+  --h2-32-bold-font-size: 32px;
+  --h2-32-bold-line-height: 150%;
+  --h2-32-bold-font-weight: 700;
+  --h2-32-bold-font-style: normal;
+  --h2-32-medium-font-family: Montserrat-Medium, sans-serif;
+  --h2-32-medium-font-size: 32px;
+  --h2-32-medium-line-height: 150%;
+  --h2-32-medium-font-weight: 500;
+  --h2-32-medium-font-style: normal;
+  --h3-24-bold-font-family: Montserrat-Bold, sans-serif;
+  --h3-24-bold-font-size: 24px;
+  --h3-24-bold-line-height: 150%;
+  --h3-24-bold-font-weight: 700;
+  --h3-24-bold-font-style: normal;
+  --h3-24-medium-font-family: Montserrat-Medium, sans-serif;
+  --h3-24-medium-font-size: 24px;
+  --h3-24-medium-line-height: 150%;
+  --h3-24-medium-font-weight: 500;
+  --h3-24-medium-font-style: normal;
+  --h3-24-regular-font-family: Montserrat-Regular, sans-serif;
+  --h3-24-regular-font-size: 24px;
+  --h3-24-regular-line-height: 150%;
+  --h3-24-regular-font-weight: 400;
+  --h3-24-regular-font-style: normal;
+  --h4-18-bold-font-family: Montserrat-Bold, sans-serif;
+  --h4-18-bold-font-size: 18px;
+  --h4-18-bold-line-height: 150%;
+  --h4-18-bold-font-weight: 700;
+  --h4-18-bold-font-style: normal;
+  --h4-18-regular-font-family: Montserrat-Regular, sans-serif;
+  --h4-18-regular-font-size: 18px;
+  --h4-18-regular-line-height: 150%;
+  --h4-18-regular-font-weight: 400;
+  --h4-18-regular-font-style: normal;
+  --button-16-font-family: Montserrat-SemiBold, sans-serif;
+  --button-16-font-size: 16px;
+  --button-16-line-height: 120%;
+  --button-16-font-weight: 600;
+  --button-16-font-style: normal;
+  --mobile-h1-38-bold-font-family: Montserrat-Bold, sans-serif;
+  --mobile-h1-38-bold-font-size: 38px;
+  --mobile-h1-38-bold-line-height: 150%;
+  --mobile-h1-38-bold-font-weight: 700;
+  --mobile-h1-38-bold-font-style: normal;
+
+  /* Effects */
+}
